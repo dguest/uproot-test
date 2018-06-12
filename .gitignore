@@ -1,0 +1,4 @@
+#ignore root files, pdf, and output directories
+*.root
+*.pdf
+/plots/
